@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raghuvaran
-- 👀 I’m interested in Data and Product
-- 🌱 I’m currently learning Robot Automation
+- 👀 I’m interested very much in understanding the "why?" part in everything I do.
+- 🌱 I’m currently working on learning Product Management
+
 
 
 <!---
